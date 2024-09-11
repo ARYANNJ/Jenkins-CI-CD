@@ -1,2 +1,4 @@
 print("Hello")
-print("okay")
+fruits=["apple","mango","orange","banana"]
+for fruit in fruits:
+    print(fruit)
